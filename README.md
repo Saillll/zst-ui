@@ -1,3 +1,3 @@
 # Quasar App
 
-> WIP
+A Vue-Quasar frontend UI client for project [zst].

@@ -20,7 +20,7 @@
     "@babel/core": "^7.1.6",
     "@babel/preset-env": "^7.1.6",
     "@tinymce/tinymce-vue": "^1.1.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cross-env": "^5.2.0",
     "tinymce": "^4.9.2",
     "vue-i18n": "^7.3.3",
